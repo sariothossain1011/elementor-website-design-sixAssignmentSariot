@@ -83,6 +83,8 @@ body{
     color: orange;
 }
 
+/* RESPONSIVE WEBSITE */
+
 @media only screen and (max-width:768px) and (max-width: 991px){
     .carousel-caption{
         bottom: 350px;
