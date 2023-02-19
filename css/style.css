@@ -78,9 +78,15 @@ body{
     font-size: 50px;
 }
 
-.socials i{
-    font-size: 30px;
+.socials i,i{
+    font-size: 25px;
+    padding-right: 5px;
     color: orange;
+}
+
+iframe{
+    width: 100%;
+    height: 400px;
 }
 
 /* RESPONSIVE WEBSITE */
@@ -124,5 +130,8 @@ body{
     }
     .card{
         margin-bottom: 20px;
+    }
+    .footer-section{
+        text-align: center;
     }
 }
