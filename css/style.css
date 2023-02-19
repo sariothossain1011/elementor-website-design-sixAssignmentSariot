@@ -10,11 +10,12 @@ body{
 .btn:hover{
     background: white;
     color: orange;
-    border: 2px solid orange;
+    border: .5px solid orange;
 }
 .bi{
     color: orange;
 }
+
 .navbar-toggler-icon i{
     font-size: 25px;
     font-weight: 600;
